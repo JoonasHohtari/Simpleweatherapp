@@ -1,0 +1,9 @@
+# Ignore environment file that contains sensitive data (API key)
+.env
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore virtual environment directory (if applicable)
+venv/
